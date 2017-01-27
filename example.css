@@ -1,0 +1,30 @@
+/**
+Example CSS 
+
+	Fonts:
+		* {
+
+			font-family: "a font name";
+			size: 10px, 10em, 10%;
+			text-align: center;
+			line-height: 10em;
+			word-spacing: 10em;
+			letter-spacing: 10em;
+			font-weight: bold;
+			font-style: italic;
+			text-transform: uppercase;
+			text-align: left;
+		}
+
+	Color:
+		* {
+		background: rgba(10, 10, 10, 1);
+		color: rgba(10, 10, 10, 1);			
+		}
+
+	Selectors:
+
+		* - all
+		h1, h2, h3 ect - headings 
+		p - paragraph 
+**/
