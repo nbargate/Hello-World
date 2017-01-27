@@ -2,24 +2,32 @@
 	font-family: Georgia;
 	size: 20px;
 	color: rgba(45, 45, 45, 0.8);
+<<<<<<< HEAD
 	background: rgba(12, 241, 10, 0.2);
 	text-align: center;
+=======
+	background: rgba(13, 241, 10, 0.2);
+>>>>>>> origin/master
 }
 
 h1 {
 	font-family: Comic;
 	size: 40px;
-	background: rgba(0, 0, 0, 0); 
+	background: rgba(1, 1, 1, 0.1); 
 }
 h2 {
 	font-family: Comic;
 	size: 30px;
 	color: rgba(45, 45, 45, 0.6) ;
+<<<<<<< HEAD
 	background: rgba(0, 0, 0, 0);
 	line-height: 1em;
+=======
+	background: rgba(1, 1, 1, 0.2);
+>>>>>>> origin/master
 }
 
 p {
 	color: black;
-	background: rgba(0, 0, 0, 0);
+	background: rgba(1, 1, 1, 0.3);
 }
